@@ -10,6 +10,8 @@ module.exports = {
       'primary5': '#668273',
       'primary6': '#668273',
       'primary7': '#D9D9D9',
+      'primary8': '#313131',
+      'primary9': '#6D6D6D',
 
       'green-50': '#EEFFF6',
 
